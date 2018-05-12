@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '41958'
     url: http://www.gutenberg.org/2009/agents/41958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42971#Macaulay-s-Life-of-Samuel-JohnsonWith-a-Selection-from-his-Essay-on-Johnson
 gutenberg_issued: '2013-06-17'
 gutenberg_type: Text
 identifiers:
